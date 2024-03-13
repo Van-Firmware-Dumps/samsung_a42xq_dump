@@ -1,0 +1,20 @@
+## a42xqks-user 13 TP1A.220624.014 A426NKSS5EXA1 release-keys
+- Manufacturer: samsung
+- Platform: lito
+- Codename: a42xq
+- Brand: samsung
+- Flavor: a42xqks-user
+- Release Version: 13
+- Kernel Version: 4.19.152
+- Id: TP1A.220624.014
+- Incremental: A426NKSS5EXA1
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: true
+- Locale: ko-KR
+- Screen Density: undefined
+- Fingerprint: samsung/a42xqks/a42xq:11/RP1A.200720.012/A426NKSS5EXA1:user/release-keys
+- OTA version: 
+- Branch: a42xqks-user-13-TP1A.220624.014-A426NKSS5EXA1-release-keys
+- Repo: samsung_a42xq_dump
